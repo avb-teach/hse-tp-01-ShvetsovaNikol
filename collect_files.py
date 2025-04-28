@@ -1,3 +1,4 @@
+chmod +x collect_files.sh
 import sys
 import os
 input_dir=sys.argv[1]
